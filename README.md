@@ -7,6 +7,9 @@ COC 7 (Call Of Cthulhu) 創角工具
 
 http://coctrpg.tiddlyspot.com/
 
+# v1.0.2
+修正精神分析與心理學敘述顛倒的問題。
+
 # v1.0.1
 更改開發環境，不影響功能
 
