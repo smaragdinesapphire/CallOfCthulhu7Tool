@@ -7,6 +7,9 @@ COC 7 (Call Of Cthulhu) 創角工具
 
 http://coctrpg.tiddlyspot.com/
 
+# v1.2.1
+修正版本更新公告 Dialog 外框樣式
+
 # v1.2.0
 A. 支援版本更新公告
 
