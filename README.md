@@ -7,6 +7,11 @@ COC 7 (Call Of Cthulhu) 創角工具
 
 http://coctrpg.tiddlyspot.com/
 
+# v1.2.0
+A. 支援版本更新公告
+
+B. 紀錄頁面'取消後續步驟說明'之設定
+
 # v1.1.0
 '設定完成'頁面新增 - 現金與財產。
 
