@@ -8,7 +8,7 @@ COC 7 (Call Of Cthulhu) 創角工具
 http://coctrpg.tiddlyspot.com/
 
 # v1.3.0
-A. 支援滑鼠滾動視窗/清單
+A. 支援 mobile 滑動視窗/清單
 
 B. 調整公告的標題樣式
 
