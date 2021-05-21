@@ -7,6 +7,9 @@ COC 7 (Call Of Cthulhu) 創角工具
 
 http://coctrpg.tiddlyspot.com/
 
+# v1.3.1
+修正角色無法刪除的問題
+
 # v1.3.0
 A. 支援 mobile 滑動視窗/清單
 
